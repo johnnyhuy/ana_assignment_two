@@ -1,12 +1,13 @@
 # Algorithms & Analysis Assignment Two
 This is an RMIT course from semester two 2017 studying the theory and practicallity in algorithms in information technology.
 
-# Contribution
+## Contribution
 
 S3600251 Neil D'Souza - 50%
 
 S3604367 Johnny Huynh - 50%
 
+## Usage
 
 To compile on server:
 javac -cp .:mazeSolver/SampleSolver.jar *.java (or make)
