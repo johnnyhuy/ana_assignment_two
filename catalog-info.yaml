@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component  
 metadata:
   name: ana-assignment-two
+  title: ANA Assignment Two
   description: RMIT course project implementing maze solvers and generators in Java
   tags:
     - java
