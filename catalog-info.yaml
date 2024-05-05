@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component  
+metadata:
+  name: ana-assignment-two
+  description: RMIT course project implementing maze solvers and generators in Java
+  tags:
+    - java
+spec:
+  type: library
+  lifecycle: experimental
+  owner: johnnyhuy
